@@ -78,10 +78,10 @@ The project worked best with clear short speech. Action item extraction was rule
 6. Save outputs
 
 ## GitHub Link
-Add your GitHub repository link here.
+https://github.com/Ibrahim17A/Quiz-Challenge-2
 
 ## Demo Video Link
-Add your demo video link here.
+https://youtu.be/ze_XmmZESyo
 
 ## AI Tool Disclosure
 ChatGPT was used for planning, code guidance, README drafting, evaluation wording, and presentation support. Google Colab was used to run the project. Whisper was used for speech transcription.
