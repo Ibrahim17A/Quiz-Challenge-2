@@ -1,0 +1,1 @@
+Today we reviewed the progress of the project and discussed the next steps. We finished the first part of the system and tested the initial model output. We still need to improve the evaluation section, update the slides and upload the final files to GitHub.
