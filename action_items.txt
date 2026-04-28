@@ -1,0 +1,5 @@
+1. Improve the evaluation section
+2. Update the slides
+3. Upload the final files to GitHub
+4. Complete the demo video
+5. Review the results and prepare for the final submission
